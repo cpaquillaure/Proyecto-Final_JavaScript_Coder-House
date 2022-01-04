@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "codigo": "P001",
+        "nombre": "Foto Roca rectangular",
+        "pLista": "37.00",
+        "stock": "20",
+        "imagen":"img/foto_roca.png",
+        "categoria":"Foto Rocas"
+
+    },
+    
+    {
+        "id": 2,
+        "codigo": "P002",
+        "nombre": "Taza Peltre",
+        "pLista": "25.00",
+        "stock": "15",
+        "imagen":"img/taza_peltre.png",
+        "categoria":"Tazas"
+    },
+    {
+        "id": 3,
+        "codigo": "P003",
+        "nombre": "Taza Mug",
+        "pLista": "40.00",
+        "stock": "10",
+        "imagen":"img/taza_mug.png",
+        "categoria":"Tazas"
+    },
+    {
+        "id": 4,
+        "codigo": "P004",
+        "nombre": "Foto Roca Corazón",
+        "pLista": "42.00",
+        "stock": "15",
+        "imagen":"img/fotoroca_corazon.png",
+        "categoria":"Foto Rocas"
+    },
+    {
+        "id": 5,
+        "codigo": "P005",
+        "nombre": "Termolata 500ml",
+        "pLista": "50.00",
+        "stock": "20",
+        "imagen":"img/termolata.png",
+        "categoria":"Termos"
+    },
+    {
+        "id": 6,
+        "codigo": "P006",
+        "nombre": "Taza Mosquetón",
+        "pLista": "30.00",
+        "stock": "20",
+        "imagen":"img/taza_mosqueton.png",
+        "categoria":"Tazas"
+    },
+    {
+        "id": 7,
+        "codigo": "P007",
+        "nombre": "Taza Vidrio",
+        "pLista": "22.00",
+        "stock": "20",
+        "imagen":"img/taza_vidrio.png",
+        "categoria":"Tazas"
+    },
+    {
+        "id": 8,
+        "codigo": "P008",
+        "nombre": "Taza asa Corazón",
+        "pLista": "20.00",
+        "stock": "20",
+        "imagen":"img/taza_asacorazon.png",
+        "categoria":"Tazas"
+    }
+   
+]
